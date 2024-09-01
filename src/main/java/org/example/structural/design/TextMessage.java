@@ -1,4 +1,4 @@
-package org.example.behavioral.decorator.design;
+package org.example.structural.design;
 
 public class TextMessage implements Message{
 

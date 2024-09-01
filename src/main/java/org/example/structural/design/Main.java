@@ -1,6 +1,6 @@
-package org.example.behavioral.decorator.design;
+package org.example.structural.design;
 
-import org.example.behavioral.decorator.design.decorators.HtmlEncodedMessage;
+import org.example.structural.design.decorators.HtmlEncodedMessage;
 
 public class Main {
 
