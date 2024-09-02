@@ -1,4 +1,4 @@
-package org.example.structural.design;
+package org.example.structural.decorator.design;
 
 public class TextMessage implements Message{
 

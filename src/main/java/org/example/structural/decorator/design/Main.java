@@ -1,6 +1,6 @@
-package org.example.structural.design;
+package org.example.structural.decorator.design;
 
-import org.example.structural.design.decorators.HtmlEncodedMessage;
+import org.example.structural.decorator.design.decorators.HtmlEncodedMessage;
 
 public class Main {
 
