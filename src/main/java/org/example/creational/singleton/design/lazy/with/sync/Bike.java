@@ -13,7 +13,7 @@ public class Bike {
 
         if(INSTANCE == null) { // if instance is null
 
-            synchronized (Bike.class) { // make it thread safe
+            synchronized (Bike.class) { // make it thread safe, class level lock
 
                 if(INSTANCE == null){ // check once again instance is null, when we get the lock
 

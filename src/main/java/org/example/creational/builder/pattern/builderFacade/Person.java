@@ -5,8 +5,8 @@ public class Person {
     public String streetAddress, postcode, city;
 
     public String companyName, position;
-    public int annualIncome;
 
+    public int annualIncome;
 
     @Override
     public String toString() {

@@ -30,6 +30,7 @@ public class Main {
         System.out.println(userDTO2.getAge());
 
 
+        System.out.println(userDTO2 == userDTO);
         // some inbuilt examples
         System.out.println("-------------------------");
 
