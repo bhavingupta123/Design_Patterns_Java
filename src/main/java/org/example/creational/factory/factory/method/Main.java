@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Message msg2 = new TextMessageCreator().getMessage();
+        Message msg2 = new TextMessageCreator().createMessge();
 
         Message msg = new JSONMessageCreator().createMessge();
         System.out.println(msg.getContent());

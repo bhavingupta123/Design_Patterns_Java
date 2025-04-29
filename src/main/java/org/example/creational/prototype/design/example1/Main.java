@@ -1,4 +1,4 @@
-package org.example.creational.prototype.design;
+package org.example.creational.prototype.design.example1;
 
 public class Main {
 

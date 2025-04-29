@@ -1,8 +1,10 @@
-package org.example.creational.prototype.design;
+package org.example.creational.prototype.design.example1;
 
 // Let this not support cloning
 
-public class GeneralMan extends GameUnit{
+import org.example.creational.prototype.design.example1.GameUnit;
+
+public class GeneralMan extends GameUnit {
 
     private String state = "idle";
 
